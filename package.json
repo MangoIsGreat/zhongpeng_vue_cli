@@ -1,6 +1,6 @@
 {
   "name": "zhongpeng_vue_cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "这是一个由zhongpeng开发的vue-cli脚手架项目，作者邮箱859247268@qq.com",
   "main": "index.js",
   "scripts": {
