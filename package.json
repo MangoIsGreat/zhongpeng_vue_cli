@@ -1,0 +1,27 @@
+{
+  "name": "zhongpeng_vue_cli",
+  "version": "1.0.2",
+  "description": "这是一个由zhongpeng开发的vue-cli脚手架项目，作者邮箱859247268@qq.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "zp": "index.js"
+  },
+  "keywords": [
+    "vue-cli",
+    "cli",
+    "zhongpeng",
+    "zp"
+  ],
+  "author": "zhongpeng_116",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^9.0.0",
+    "download-git-repo": "^3.0.2",
+    "log-symbols": "^4.0.0",
+    "ora": "^3.4.0"
+  }
+}
